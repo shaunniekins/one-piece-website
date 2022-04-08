@@ -1,4 +1,3 @@
-# one-piece_website
 Website dedicated for One Piece
 
-Note: Work-in-progress
+-Flexbox Layout was utilized.-
